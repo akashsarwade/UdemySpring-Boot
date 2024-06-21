@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Udemy\JavaGuides\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4051290540.index
+\spring-mvc-maven\src\main\resources
+C:\Udemy\JavaGuides\SpringBoot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2512906188.index
+\HPlusApp\src\main\java

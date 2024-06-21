@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;UploadFileS3Bucket-1&apos; to &apos;S3BucketApplication&apos;" description="Rename resource &apos;UploadFileS3Bucket-1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/UploadFileS3Bucket-1" name="S3BucketApplication" stamp="1685202025775" updateReferences="true"/>
+</session>
